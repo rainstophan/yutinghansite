@@ -24,8 +24,8 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  # gitRepo: https://github.com/hugo-toha/rainstophan.github.io
-  gitRepo: https://github.com/rainstophan/yutinghansite.git
+  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  # gitRepo: https://github.com/rainstophan/yutinghansite.git
 
 
   # specify whether you want to write some blog posts or not
