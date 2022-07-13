@@ -4,23 +4,23 @@ section:
   id: experiences
   enable: true
   weight: 3
-  showOnNavbar: true
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true 
 
-# Your experiences
+# Your experiences 实习 毕设 编程老师
 experiences:
 - company:
     name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    # url: "https://www.hetao101.com"
+    location: Wuhan China
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Programming Teacher
+    start: Nov 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Aug 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Design and develop XYZ tool for ABC task
@@ -29,11 +29,21 @@ experiences:
 
 - company:
     name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    location: Harbin China
   positions:
-  - designation: Software Engineer
+  - designation: Software Developer Intern
+    start: March 2016
+    end: May 2017
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: PreExample Co.
+    location: Shenyang China
+  positions:
+  - designation: Front-end Developer Intern
     start: March 2016
     end: May 2017
     responsibilities:

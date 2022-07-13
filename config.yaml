@@ -23,6 +23,9 @@ enableEmoji: true
 
 # Site parameters
 params:
+
+  background: "images/1050408.jpg"
+
   # GitHub repo URL of your site
   gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
   # gitRepo: https://github.com/rainstophan/yutinghansite.git
