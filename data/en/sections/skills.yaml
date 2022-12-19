@@ -13,24 +13,24 @@ section:
 skills:
 - name: Game Development
   # logo: "images/favicon.png"
-  summary: "Capable of developing video games on Unity. Experienced in procedural generation, animation and mechanics design."
+  summary: "Capable of developing video games on Unity. Experienced in procedural content generation, player AI, and computer graphics."
   # url: "https://kubernetes.io/"
-
-- name: Software Development
-  # logo: "images/favicon.png"
-  summary: "Using React and Vue for professional development. Capable of writing scalable, testable, and maintainable program."
-  # url: "https://golang.org/"
 
 - name: UX Design
   # logo: "images/favicon.png"
-  summary: "Worked with Figma to design high fidelity prototypes."
+  summary: "Able to design high-fidelity prototypes and cognitive computing interfaces with Figma."
   # url: "https://rainstophan.github.io"
 
 - name: Data Analysis
   # logo: "images/favicon.png"
-  summary: "Using python as main language for data analysis and visualization."
+  summary: "Professional user data analysis and delicate visualization with Python."
   url: "https://rainstophan.github.io"
+  
+- name: Web Development
+  # logo: "images/favicon.png"
+  summary: "Professional front-end development with React and Vue framework. Capable of writing scalable, testable, and maintainable application."
+  # url: "https://golang.org/"
 
 - name: Computer Vision
   # logo: "images/favicon.png"
-  summary: "Experienced with  Object Detection, Image Creation, and Image Segmentation project based on CNN, GAN model."
+  summary: "Experienced with CNN, and GAN models to solve Object Detection, Image Generation, and Image Segmentation problems."

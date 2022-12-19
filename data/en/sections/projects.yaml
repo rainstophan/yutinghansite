@@ -14,42 +14,85 @@ buttons:
   filter: "all"
 # - name: Professional
 #   filter: "professional"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
+- name: Game
+  filter: "game project"
+- name: UX
+  filter: "ux project"
+- name: School Project
+  filter: "group"
+- name: Hobby Project
+  filter: "own"
+# - name: Academic
+#   filter: "academic"
+# - name: Game Jam
+#   filter: "hobby"
 
-# your projects
-# video https://www.youtube.com/watch?v=_po46d-YAPE
 # site https://rainstophan.github.io
 # link figma
 # poster cv
 
 # posts: 观后感 学习笔记 心得 兴趣生活
+
+# GameGameGameGameGameGameGameGameGameGameGameGameGameGame
 projects:
-- name: LOTR inspired Maze Game
+- name: The Old Ones (Action Game) [Released]
   logo: /images/sections/projects/kubernetes.png
-  role: Developer
+  role: Game Developer
+  timeline: "August 2022 - December 2022"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://dadiu.itch.io/the-old-ones"  
+  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Fight an ancient monster in an old library, taking inspiration from the 1920s art styles and H.P. Lovecraft’s literary works. Dive into this secret society of occult agents, learn the skills required to become an Eldritch Hunter, and fight The Old Ones, without going insane.
+  tags: ["game project","group"]
+
+
+- name: Giants’ Rest (Visual Explore Game)
+  logo: /images/sections/projects/kubernetes.png
+  role: Game Developer
+  timeline: "August 2022 - October 2022"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://yutinghan.itch.io/lotr-inspired-maze-game"  
+  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: As the last living creature on a tiny, floating island in the sky, explore and dig around with the help of a little, mysterious creature, to find parts that will restore a giant, dilapidated robot, and discover its story.
+  tags: ["game project","group"]
+
+
+- name: LOTR Inspired Maze (Puzzle Game)
+  logo: /images/sections/projects/kubernetes.png
+  role: Game Developer and Level Designer
   timeline: "March 2022 - May 2022"
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.youtube.com/watch?v=_po46d-YAPE"  
+  url: "https://yutinghan.itch.io/mini-game-prototype"  
   # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Delicate maze generation. Procedural terrain generation. Interactive experience with lighting, sound, and animated objects. 
-  tags: ["academic"]
+  tags: ["game project","group"]
 
-# - name: Tensorflow
-#   logo: /images/sections/projects/tensorflow.png
-#   role: Developer
-#   timeline: "Jun 2018 - Present"
-#   # repo: https://github.com/tensorflow/tensorflow
-#   url: "https://rainstophan.github.io"
-#   summary: An Open Source Machine Learning Framework for Everyone.
-#   tags: ["professional", "machine-learning","academic"]
 
-# - name: Toha
-#   logo: /images/sections/projects/toha.png
-#   role: Owner
-#   timeline: "Jun 2019 - Present"
-#   repo: https://github.com/hossainemruz/toha
-#   summary: A Hugo theme for personal portfolio.
-#   tags: ["hobby","hugo","theme","professional"]
+#UXUXUXUXUXUXUXUXUXUXUXUXUXUXUXUXUXUXUXUXUXUXUXUX
+
+- name: Digital Grocery (iOS APP)
+  logo: /images/sections/projects/kubernetes.png
+  role: UX Designer
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.figma.com/proto/dAkr5BQmU1I0MIIQ5Wl30D/Wolt-UI-Design-Test%2C-Picker%2C-Intern-(Copy)?page-id=1099%3A146&node-id=1099%3A248&viewport=241%2C48%2C0.16&scaling=scale-down&starting-point-node-id=1099%3A248"  
+  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: This ios app is designed for grocery shops to provide a digital solution for quick order collection and quick delivery. Let users enjoy fresh groceries on their doorstep.
+  tags: ["ux project","own"]
+
+- name: Be Green (Web APP)
+  logo: /images/sections/projects/kubernetes.png
+  role: UX Designer
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.figma.com/proto/7s2j2UpCzrQ4XEA8jf6o5w/Untitled?node-id=0%3A743&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=0%3A743&show-proto-sidebar=1"  
+  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: BeGreen is an app that helps people to get greener buying habits by keeping track of the carbon footprint of daily groceries and keep them motivated by gamification.
+  tags: ["ux project","group"]
+
+- name: Dogcare Robot (VR APP)
+  logo: /images/sections/projects/kubernetes.png
+  role: UX Designer
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.figma.com/proto/oUnL0ijwqphgECCfGtLCdw/Untitled?page-id=0%3A1&node-id=3%3A71&viewport=241%2C48%2C0.03&scaling=min-zoom&starting-point-node-id=3%3A71"  
+  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: The robotic system is corporated via an app-based solution with artefacts as a robot system. Digital Dogcare gives dog owners the opportunity to keep an eye on their dogs, its activities, behaviour and food through the robotic system whilst being away from the dog. 
+  tags: ["ux project","group"]

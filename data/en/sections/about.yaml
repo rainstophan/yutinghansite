@@ -15,10 +15,10 @@ company:
   url: "https://www.dtu.dk"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/gamecv.pdf"
 
 # a summary about you
-summary: 'Having diverse knowledges on computer sciences, from Prototype designing to Computer vision, I would be more interested in creating and implementing computer games. I am passionated by video games, music and technologies in a broader scale.'
+summary: 'Having diverse knowledge of computer sciences, from user experience research to computer game development, I would be more interested in creating and implementing adventure games. I am passionate about fiction novel, video game, film, and AI technologies on a broader scale.'
 # Stay abreast of industry developments
 # Creativity and culture cv with game
 
@@ -36,15 +36,12 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Imagination and Curiosity
+- name: Game Dev
   percentage: 95
   color: green
-- name: Team Work
+- name: User Experience
   percentage: 90
   color: orange
-- name: Critical-thinking
-  percentage: 90
-  color: blue
-- name: Communication
+- name: Data Analysis
   percentage: 85
   color: pink
