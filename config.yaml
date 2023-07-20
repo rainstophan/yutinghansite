@@ -3,6 +3,7 @@ baseURL: https://rainstophan.github.io
 languageCode: en-us
 title: "Yuting's Website"
 theme: "toha"
+ignoreErrors: ["error-remote-getjson"]
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
