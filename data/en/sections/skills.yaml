@@ -13,8 +13,16 @@ section:
 skills:
 - name: Game Development
   # logo: "images/favicon.png"
-  summary: "Capable of developing video games on Unity. Experienced in procedural content generation, player AI, and computer graphics."
+  summary: "Capable of developing video games on Unity. Experienced in Procedural Content Generation, Player AI, and various Gameplay Mechanics."
   # url: "https://kubernetes.io/"
+
+- name: Computer Graphics
+  # logo: "images/favicon.png"
+  summary: "In-depth understanding of the game engine rendering pipeline, adept at crafting shaders, and creating interactive graphical applications using OpenGL."
+
+- name: Deep Learning
+  # logo: "images/favicon.png"
+  summary: "Experienced in the PyTorch library with a strong understanding of GAN and CNN models, adept at implementing solutions to assist in AI-related problem-solving."
 
 - name: UX Design
   # logo: "images/favicon.png"
@@ -23,7 +31,7 @@ skills:
 
 - name: Data Analysis
   # logo: "images/favicon.png"
-  summary: "Professional user data analysis and delicate visualization with Python."
+  summary: "Professional user data analysis and delicate visualization with Tableau."
   url: "https://rainstophan.github.io"
   
 - name: Web Development
@@ -31,6 +39,3 @@ skills:
   summary: "Professional front-end development with React and Vue framework. Capable of writing scalable, testable, and maintainable application."
   # url: "https://golang.org/"
 
-- name: Computer Vision
-  # logo: "images/favicon.png"
-  summary: "Experienced with CNN, and GAN models to solve Object Detection, Image Generation, and Image Segmentation problems."
